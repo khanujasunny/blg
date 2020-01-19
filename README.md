@@ -1,0 +1,1 @@
+"# blgStockManagement.github.io" 
